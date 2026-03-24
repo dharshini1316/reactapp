@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 this is my first PR
 //small typo fixed
+//Quickdraw badge fix
